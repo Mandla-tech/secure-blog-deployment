@@ -23,7 +23,7 @@ jobs:
           pip install Flask
 # Running Snyk to check for vulnerabilities in project dependencies
       - name: Run Snyk to check for vulnerabilities
-        uses: snyk/actions/python-3-11@v3
+        uses: snyk/actions/python@v3.2.0
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:

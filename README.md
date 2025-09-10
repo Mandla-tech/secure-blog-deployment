@@ -5,7 +5,7 @@ This isn't just another "Hello World" deployment. This project showcases real-wo
 - **Security-First Development:** Automated vulnerability scanning with Snyk
 - **Container Security:** Proper Dockerfile configuration for cloud deployment
 - **Cloud-Native Deployment:** Google Cloud Run with proper IAM and security controls
-- **Real Troubleshooting:** Solving actual deployment issues (port mismatches, permissions) [Link Text](https://iammandla.hashnode.dev/)
+- **Real Troubleshooting:** Solving actual deployment issues (port mismatches, permissions) [Blog page](https://iammandla.hashnode.dev/)
 - **Complete Pipeline:** From local development to live production environment
 
 # Architecture Overview
@@ -46,7 +46,7 @@ secure-blog/
 └── README.md            # This file
 
 # Live Demo
-[Link Text](https://secure-blog-547606477313.us-central1.run.app/)
+[View Demo Here](https://secure-blog-547606477313.us-central1.run.app/)
 
 # 📝 Blog Series
 I've documented this entire journey in a detailed blog series covering:
